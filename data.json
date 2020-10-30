@@ -1,0 +1,64 @@
+{
+  "responses": {
+    "Response-id-1": {
+      "Date": "2020-10-15", 
+      "Score": 8
+    }, 
+    "Response-id-10": {
+      "Date": "2020-10-18", 
+      "Score": 10
+    }, 
+    "Response-id-11": {
+      "Date": "2020-10-18", 
+      "Score": 7
+    }, 
+    "Response-id-12": {
+      "Date": "2020-10-17", 
+      "Score": 5
+    }, 
+    "Response-id-13": {
+      "Date": "2020-10-16", 
+      "Score": 0
+    }, 
+    "Response-id-14": {
+      "Date": "2020-10-15", 
+      "Score": 0
+    }, 
+    "Response-id-15": {
+      "Date": "2020-10-15", 
+      "Score": 10
+    }, 
+    "Response-id-2": {
+      "Date": "2020-10-15", 
+      "Score": 9
+    }, 
+    "Response-id-3": {
+      "Date": "2020-10-16", 
+      "Score": 10
+    }, 
+    "Response-id-4": {
+      "Date": "2020-10-16", 
+      "Score": 9
+    }, 
+    "Response-id-5": {
+      "Date": "2020-10-17", 
+      "Score": 0
+    }, 
+    "Response-id-6": {
+      "Date": "2020-10-18", 
+      "Score": 1
+    }, 
+    "Response-id-7": {
+      "Date": "2020-10-17", 
+      "Score": 3
+    }, 
+    "Response-id-8": {
+      "Date": "2020-10-17", 
+      "Score": 7
+    }, 
+    "Response-id-9": {
+      "Date": "2020-10-17", 
+      "Score": 8
+    }
+  }
+}
