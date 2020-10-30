@@ -4,7 +4,8 @@ Steps to run the api
 1. Download the api.py file from the repository.
 2. Run the file by using the following command in windows cmd or linux terminal
     python api.py
-3. Open localhost:5000 in web browser the Json file there would be the input data
+3. Type following query for getting the input Json file that is used in the API
+   http://localhost:5000/
 4. Type following query for getting the various distribution of Promoters, Passives and Detractors of each day in Json file
    http://localhost:5000/getnps?startDate=2020-10-15&endDate=2020-10-17
 5. Type following query for getting the nps score for each day in Json file
