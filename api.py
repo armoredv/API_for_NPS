@@ -6,7 +6,7 @@ import numpy as np
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 input1 = {
-	'responses':{
+	'prakhar':{
 		'Response-id-1':{
 			'Score':8,
 			'Date':'2020-10-15'
@@ -81,12 +81,12 @@ result = {
 	"Date" =[list of scores]
 }"""
 result = {}
-a = input1['responses'].keys()
+a = input1['prakhar'].keys()
 for response in a:
 	#result[response]=input1[response]
-	result[input1['responses'][response]['Date']] =[] 
+	result[input1['prakhar'][response]['Date']] =[] 
 for response in a:
-	result[input1['responses'][response]['Date']].append(input1['responses'][response]['Score'])
+	result[input1['prakhar'][response]['Date']].append(input1['prakhar'][response]['Score'])
 result1 = {}
 a = result.keys()
 for date in a:
